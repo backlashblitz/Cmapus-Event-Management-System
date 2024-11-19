@@ -1,2 +1,2 @@
-# Cmapus-Event-Management-System
-Cmapus Event Management System using SQL
+# Camapus-Event-Management-System
+Camapus Event Management System using SQL
